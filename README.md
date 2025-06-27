@@ -5,7 +5,7 @@ This project is a real-time Sign Language Detection System that uses computer vi
 📌 Features
 -Real-time hand gesture detection using webcam.
 
--Predicts action sign language using a trained Convolutional Neural Network (CNN).
+-Predicts action sign language using an LSTM NN built on TF Keras.
 
 -Uses OpenCV for live video feed processing.
 
